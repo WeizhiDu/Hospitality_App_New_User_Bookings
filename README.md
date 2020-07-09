@@ -6,4 +6,4 @@ Includes (~600Mb) 1 million rows a Hospitality APP new user booking data
 [access the data](https://github.com/WeizhiDu/Hospitality_App_New_User_Bookings.git)
 
 ## Pipeline：
-Data Processing and Exploration -> Feature Engineering -> Model Building and Evaluation
+Data Processing and Exploration -> Feature Engineering(Datetime data, Label Encoding, One-Hot Encoding) -> Model Building and Evaluation
